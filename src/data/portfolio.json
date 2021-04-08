@@ -1,0 +1,59 @@
+{
+    "Header": {
+
+        "title": "Stephen Guo",
+        "paragraph": "Full Stack Developer"
+
+    },
+    "About": {
+        "paragraph": "I'm an Full Stack developer with a B.S. degree in Technology Management from UC Davis. Having a solid foundation in data structures and algorithms, front end developement and agile software development has helped me to solve complex and challenging problems. As a developer, I always strive to learn new technologies to create efficient and elegant applications. Developing Apps is my passion, and I hope to positively impact people's lives. When I'm not coding, I enjoy working out, playing basketball, listening to music, and reading."
+    },
+    "Projects": [{
+            "title": "BeNatively",
+            "description": "Next-Generation international ebook market place to buy or read",
+            "function": "BeNatively helps readers to map ebooks between English and over 100 other languages and publishers to expand their audiences.",
+            "myRole": "Cofounder - Full Stack Engineer",
+            "features": "Email Authentication, Data Caching, Real Time Database",
+            "technologies": "React, Javascript, Firebase Database, Google Cloud, NLP",
+            "pics":[{
+                "href":"img/projects/p1-1.png",
+                "title": "BeNativelyReadingApp"
+            },{
+                "href":"img/projects/p1-2.png",
+                "title": "BeNatively1"
+            },{
+                "href":"img/projects/p1-3.png",
+                "title": "BeNatively1"
+            },{
+                "href":"img/projects/p1-4.png",
+                "title": "BeNatively1"
+            },{
+                "href":"img/projects/p1-5.png",
+                "title": "BeNatively1"
+            },{
+                "href":"img/projects/p1-6.png",
+                "title": "BeNatively1"
+            },
+            {
+                "href":"img/projects/p1-7.png",
+                "title": "BeNatively1"
+            },{
+                "href":"img/projects/p1-7.png",
+                "title": "BeNatively1"
+            }
+        
+        
+        ]
+        }
+        
+    ],
+    "Contact": {
+        "address": "4321 California St, San Francisco, CA 12345 ",
+        "phone": "+1 123 456 1234",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    }
+
+}
