@@ -17,25 +17,32 @@
             "technologies": "React, Javascript, Firebase Database, Google Cloud, NLP",
             "pics":[{
                 "href":"img/projects/p1-1.png",
+                "small": "img/projects/p1-2-small.png",
                 "title": "BeNativelyReadingApp"
             },{
                 "href":"img/projects/p1-2.png",
+                "small": "img/projects/p1-2-small.png",
                 "title": "BeNatively1"
             },{
                 "href":"img/projects/p1-3.png",
+                "small": "img/projects/p1-2-small.png",
                 "title": "BeNatively1"
             },{
                 "href":"img/projects/p1-4.png",
+                "small": "img/projects/p1-2-small.png",
                 "title": "BeNatively1"
             },{
                 "href":"img/projects/p1-5.png",
+                "small": "img/projects/p1-2-small.png",
                 "title": "BeNatively1"
             },{
                 "href":"img/projects/p1-6.png",
+                "small": "img/projects/p1-2-small.png",
                 "title": "BeNatively1"
             },
             {
                 "href":"img/projects/p1-7.png",
+                "small": "img/projects/p1-2-small.png",
                 "title": "BeNatively1"
             },{
                 "href":"img/projects/p1-7.png",
