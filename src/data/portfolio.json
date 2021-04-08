@@ -17,7 +17,7 @@
             "technologies": "React, Javascript, Firebase Database, Google Cloud, NLP",
             "pics":[{
                 "href":"img/projects/p1-1.png",
-                "small": "img/projects/p1-2-small.png",
+                "small": "img/projects/p1-1-small.png",
                 "title": "BeNativelyReadingApp"
             },{
                 "href":"img/projects/p1-2.png",
@@ -25,27 +25,32 @@
                 "title": "BeNatively1"
             },{
                 "href":"img/projects/p1-3.png",
-                "small": "img/projects/p1-2-small.png",
+                "small": "img/projects/p1-3-small.png",
                 "title": "BeNatively1"
             },{
                 "href":"img/projects/p1-4.png",
-                "small": "img/projects/p1-2-small.png",
+                "small": "img/projects/p1-4-small.png",
                 "title": "BeNatively1"
             },{
                 "href":"img/projects/p1-5.png",
-                "small": "img/projects/p1-2-small.png",
+                "small": "img/projects/p1-5-small.png",
                 "title": "BeNatively1"
             },{
                 "href":"img/projects/p1-6.png",
-                "small": "img/projects/p1-2-small.png",
+                "small": "img/projects/p1-6-small.png",
                 "title": "BeNatively1"
             },
             {
                 "href":"img/projects/p1-7.png",
-                "small": "img/projects/p1-2-small.png",
+                "small": "img/projects/p1-7-small.png",
                 "title": "BeNatively1"
             },{
-                "href":"img/projects/p1-7.png",
+                "href":"img/projects/p1-8.png",
+                "small": "img/projects/p1-8-small.png",
+                "title": "BeNatively1"
+            },{
+                "href":"img/projects/p1-9.png",
+                "small": "img/projects/p1-9-small.png",
                 "title": "BeNatively1"
             }
         

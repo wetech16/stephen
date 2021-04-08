@@ -48,23 +48,33 @@ export const Projects = (props) => {
               </div>
               <div className="row">
                 <div className="portfolio-items">
-                  {i.pics.map((pic, index) => {
+                  {i.pics.map((pic, ind) => {
                     return (
                       <div
-                        key={index}
+                        key={ind}
                         className="col-sm-6 col-md-4 col-lg-4"
                       >
-                        <div className="portfolio-item">
-                          <img
-                            style={{
-                              width: 400,
-                              height: 400,
-                              objectFit: "cover",
-                            }}
-                            src={pic.href}
-                            className="img-responsive"
-                            alt={pic.title}
-                          />
+                        <div
+                          className="portfolio-item"
+                          style={{
+                            border: "1px solid #ddd",
+                          }}
+                        >
+                          <a
+                            href={pic.href}
+                            title={pic.title}
+                            data-lightbox-gallery="gallery1"
+                          >
+                            <img
+                              style={{
+                                objectFit: "contain",
+                                maxHeight: "300px",
+                              }}
+                              src={pic.href}
+                              className="img-responsive"
+                              alt={pic.title}
+                            />
+                          </a>
                         </div>
                       </div>
                     );
