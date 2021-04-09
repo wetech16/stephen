@@ -56,50 +56,40 @@
         ]
     }, {
         "title": "InstantWeb",
-        "description": "Next-Generation international ebook market place to buy or read",
-        "function": "BeNatively helps readers to map ebooks between English and over 100 other languages and publishers to expand their audiences.",
-        "myRole": "Cofounder - Full Stack Engineer",
-        "features": "Email Authentication, Data Caching, Real Time Database",
-        "technologies": "React, Javascript, Firebase Database, Google Cloud, NLP",
+        "description": "Instant Websites is to amplify the simplicity of creating apps",
+        "function": "Allows owners to create apps with only description data entry",
+        "myRole": "Sole Full Stack Web Developer from new project to the initial release.",
+        "features": "React, JavaScript, Firebase Database, Firebase Function",
+        "technologies": "Email Authentications, Real Time Database and Storage",
         "pics":[{
-            "href":"img/projects/p1-1.png",
-            "small": "img/projects/p1-1-small.png",
+            "href":"img/projects/p2-1.png",
             "title": "BeNativelyReadingApp"
         },{
-            "href":"img/projects/p1-2.png",
-            "small": "img/projects/p1-2-small.png",
+            "href":"img/projects/p2-2.png",
             "title": "BeNatively1"
         },{
-            "href":"img/projects/p1-3.png",
-            "small": "img/projects/p1-3-small.png",
-            "title": "BeNatively1"
-        },{
-            "href":"img/projects/p1-4.png",
-            "small": "img/projects/p1-4-small.png",
-            "title": "BeNatively1"
-        },{
-            "href":"img/projects/p1-5.png",
-            "small": "img/projects/p1-5-small.png",
-            "title": "BeNatively1"
-        },{
-            "href":"img/projects/p1-6.png",
-            "small": "img/projects/p1-6-small.png",
-            "title": "BeNatively1"
-        },
-        {
-            "href":"img/projects/p1-7.png",
-            "small": "img/projects/p1-7-small.png",
-            "title": "BeNatively1"
-        },{
-            "href":"img/projects/p1-8.png",
-            "small": "img/projects/p1-8-small.png",
-            "title": "BeNatively1"
-        },{
-            "href":"img/projects/p1-9.png",
-            "small": "img/projects/p1-9-small.png",
+            "href":"img/projects/p2-3.gif",
             "title": "BeNatively1"
         }
     ]
+}, {
+    "title": "SF Muni Bus Tracker",
+    "description": "Make checking the San Francisco Muni Bus services easier",
+    "function": "Provided real time tracking on the Map for the San Francisco Muni Buses",
+    "myRole": "Sole Full Stack Web Developer from new project to the initial release.",
+    "features": "React, React Native, MapKit, NextBus services",
+    "technologies": "Email Authentications, Real Time Database and Storage",
+    "pics":[{
+        "href":"img/projects/p2-1.png",
+        "title": "BeNativelyReadingApp"
+    },{
+        "href":"img/projects/p2-2.png",
+        "title": "BeNatively1"
+    },{
+        "href":"img/projects/p2-3.gif",
+        "title": "BeNatively1"
+    }
+]
 }
         ],
     "Contact": {

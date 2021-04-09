@@ -55,7 +55,7 @@ export const Projects = (props) => {
                         <div
                           className="portfolio-item"
                           style={{
-                            border: "1px solid #ddd",
+                            border: "2px solid #ddd",
                           }}
                         >
                           <a
@@ -66,9 +66,10 @@ export const Projects = (props) => {
                             <img
                               style={{
                                 objectFit: "contain",
-                                maxHeight: "300px",
+                                width: "385px",
+                                height: "300px",
                               }}
-                              src={pic.href}
+                              src={pic.small || pic.href}
                               className="img-responsive"
                               alt={pic.title}
                             />
