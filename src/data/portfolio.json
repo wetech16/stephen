@@ -85,6 +85,45 @@
     },{
         "href":"img/projects/p3-2.png",
         "title": "BeNatively1"
+    },{
+        "href":"img/projects/p3-3.png",
+        "title": "BeNatively1"
+    }
+]
+}, {
+    "title": "Project Tracker",
+    "description": "Inspired by Trello and Kanban Boards",
+    "function": "Increased accessibility to track project tasks daily",
+    "myRole": "Sole Full Stack Web Developer from new project to the initial release.",
+    "features": "Customizable Built Tools, Real Time Database and Storage",
+    "technologies": "React, JavaScript, Firebase Database, Authentication",
+    "pics":[{
+        "href":"img/projects/p3-1.png",
+        "title": "BeNativelyReadingApp"
+    },{
+        "href":"img/projects/p3-2.png",
+        "title": "BeNatively1"
+    },{
+        "href":"img/projects/p3-3.png",
+        "title": "BeNatively1"
+    }
+]
+}, {
+    "title": "ConfirmMe",
+    "description": "Helped people to keep track of confirmations or appointments",
+    "function": "Real time tracking for confirmation inside the messaging app",
+    "myRole": "Sole Full Stack Web Developer from new project to the initial release.",
+    "features": " In-app Real Time Messaging, Email, Google Authentication",
+    "technologies": "React, Firebase Database, Authentication, and Host",
+    "pics":[{
+        "href":"img/projects/p3-1.png",
+        "title": "BeNativelyReadingApp"
+    },{
+        "href":"img/projects/p3-2.png",
+        "title": "BeNatively1"
+    },{
+        "href":"img/projects/p3-3.png",
+        "title": "BeNatively1"
     }
 ]
 }
