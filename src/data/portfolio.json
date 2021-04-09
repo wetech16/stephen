@@ -77,16 +77,13 @@
     "description": "Make checking the San Francisco Muni Bus services easier",
     "function": "Provided real time tracking on the Map for the San Francisco Muni Buses",
     "myRole": "Sole Full Stack Web Developer from new project to the initial release.",
-    "features": "React, React Native, MapKit, NextBus services",
-    "technologies": "Email Authentications, Real Time Database and Storage",
+    "features": "Real Time Map Marker Animations, Network Reachability",
+    "technologies": "React, React Native Expo, MapKit, NextBus services",
     "pics":[{
-        "href":"img/projects/p2-1.png",
+        "href":"img/projects/p3-1.png",
         "title": "BeNativelyReadingApp"
     },{
-        "href":"img/projects/p2-2.png",
-        "title": "BeNatively1"
-    },{
-        "href":"img/projects/p2-3.gif",
+        "href":"img/projects/p3-2.png",
         "title": "BeNatively1"
     }
 ]
