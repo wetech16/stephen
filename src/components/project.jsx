@@ -3,11 +3,9 @@ export const Projects = (props) => {
     <div id="portfolio" className="text-center">
       <div className="container">
         <h1>Projects</h1>
-        <br />
-        <br />
         {props.data?.map((i, index) => {
           return (
-            <div key={index}>
+            <div key={index} style={{ marginTop: "58px" }}>
               <div className="section-title">
                 <h2>{i.title}</h2>
                 <p>{i.description}</p>
@@ -48,7 +46,7 @@ export const Projects = (props) => {
               </div>
               <div className="row">
                 <div className="portfolio-items">
-                  {i.pics.map((pic, ind) => {
+                  {i.pics?.map((pic, ind) => {
                     return (
                       <div
                         key={ind}

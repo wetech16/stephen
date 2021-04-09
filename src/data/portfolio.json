@@ -53,12 +53,55 @@
                 "small": "img/projects/p1-9-small.png",
                 "title": "BeNatively1"
             }
-        
-        
         ]
+    }, {
+        "title": "InstantWeb",
+        "description": "Next-Generation international ebook market place to buy or read",
+        "function": "BeNatively helps readers to map ebooks between English and over 100 other languages and publishers to expand their audiences.",
+        "myRole": "Cofounder - Full Stack Engineer",
+        "features": "Email Authentication, Data Caching, Real Time Database",
+        "technologies": "React, Javascript, Firebase Database, Google Cloud, NLP",
+        "pics":[{
+            "href":"img/projects/p1-1.png",
+            "small": "img/projects/p1-1-small.png",
+            "title": "BeNativelyReadingApp"
+        },{
+            "href":"img/projects/p1-2.png",
+            "small": "img/projects/p1-2-small.png",
+            "title": "BeNatively1"
+        },{
+            "href":"img/projects/p1-3.png",
+            "small": "img/projects/p1-3-small.png",
+            "title": "BeNatively1"
+        },{
+            "href":"img/projects/p1-4.png",
+            "small": "img/projects/p1-4-small.png",
+            "title": "BeNatively1"
+        },{
+            "href":"img/projects/p1-5.png",
+            "small": "img/projects/p1-5-small.png",
+            "title": "BeNatively1"
+        },{
+            "href":"img/projects/p1-6.png",
+            "small": "img/projects/p1-6-small.png",
+            "title": "BeNatively1"
+        },
+        {
+            "href":"img/projects/p1-7.png",
+            "small": "img/projects/p1-7-small.png",
+            "title": "BeNatively1"
+        },{
+            "href":"img/projects/p1-8.png",
+            "small": "img/projects/p1-8-small.png",
+            "title": "BeNatively1"
+        },{
+            "href":"img/projects/p1-9.png",
+            "small": "img/projects/p1-9-small.png",
+            "title": "BeNatively1"
         }
-        
-    ],
+    ]
+}
+        ],
     "Contact": {
         "address": "4321 California St, San Francisco, CA 12345 ",
         "phone": "+1 123 456 1234",
