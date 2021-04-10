@@ -2,7 +2,7 @@ export const Projects = (props) => {
   return (
     <div id="portfolio" className="text-center">
       <div className="container">
-        <h1>Projects</h1>
+        <h1>PROJECTS</h1>
         {props.data?.map((i, index) => {
           return (
             <div key={index} style={{ marginTop: "58px" }}>
