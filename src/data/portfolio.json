@@ -17,40 +17,31 @@
             "technologies": "React, Javascript, Firebase Database, Google Cloud, NLP",
             "pics":[{
                 "href":"img/projects/p1-1.png",
-                "small": "img/projects/p1-1-small.png",
                 "title": "BeNativelyReadingApp"
             },{
                 "href":"img/projects/p1-2.png",
-                "small": "img/projects/p1-2-small.png",
                 "title": "BeNatively1"
             },{
                 "href":"img/projects/p1-3.png",
-                "small": "img/projects/p1-3-small.png",
                 "title": "BeNatively1"
             },{
                 "href":"img/projects/p1-4.png",
-                "small": "img/projects/p1-4-small.png",
                 "title": "BeNatively1"
             },{
                 "href":"img/projects/p1-5.png",
-                "small": "img/projects/p1-5-small.png",
                 "title": "BeNatively1"
             },{
                 "href":"img/projects/p1-6.png",
-                "small": "img/projects/p1-6-small.png",
                 "title": "BeNatively1"
             },
             {
                 "href":"img/projects/p1-7.png",
-                "small": "img/projects/p1-7-small.png",
                 "title": "BeNatively1"
             },{
                 "href":"img/projects/p1-8.png",
-                "small": "img/projects/p1-8-small.png",
                 "title": "BeNatively1"
             },{
                 "href":"img/projects/p1-9.png",
-                "small": "img/projects/p1-9-small.png",
                 "title": "BeNatively1"
             }
         ]
@@ -86,7 +77,7 @@
         "href":"img/projects/p3-2.png",
         "title": "BeNatively1"
     },{
-        "href":"img/projects/p3-3.png",
+        "href":"img/projects/p3-3a.png",
         "title": "BeNatively1"
     }
 ]
@@ -98,13 +89,13 @@
     "features": "Customizable Built Tools, Real Time Database and Storage",
     "technologies": "React, JavaScript, Firebase Database, Authentication",
     "pics":[{
-        "href":"img/projects/p3-1.png",
+        "href":"img/projects/p4-1.png",
         "title": "BeNativelyReadingApp"
     },{
-        "href":"img/projects/p3-2.png",
+        "href":"img/projects/p4-2.png",
         "title": "BeNatively1"
     },{
-        "href":"img/projects/p3-3.png",
+        "href":"img/projects/p4-3.png",
         "title": "BeNatively1"
     }
 ]
@@ -116,25 +107,50 @@
     "features": " In-app Real Time Messaging, Email, Google Authentication",
     "technologies": "React, Firebase Database, Authentication, and Host",
     "pics":[{
-        "href":"img/projects/p3-1.png",
+        "href":"img/projects/p5-1.png",
         "title": "BeNativelyReadingApp"
     },{
-        "href":"img/projects/p3-2.png",
+        "href":"img/projects/p5-2.png",
         "title": "BeNatively1"
     },{
-        "href":"img/projects/p3-3.png",
+        "href":"img/projects/p5-3.png",
         "title": "BeNatively1"
     }
 ]
 }
         ],
+    "Skills": [{
+        "icon": "fab fa-react fa-5x",
+        "title": "React"
+    },{
+        "icon": "fab fa-html5 fa-5x",
+        "title": "HTML5"
+    },{
+        "icon": "fab fa-css3-alt fa-5x",
+        "title": "CSS"
+    },{
+        "icon": "fab fab fa-js fa-5x",
+        "title": "JavaScript"
+    },{
+        "icon": "fab fa-python fa-5x",
+        "title": "Python"
+    },{
+        "icon": "fab fa-github fa-5x",
+        "title": "github"
+    },{
+        "icon": "fas fa-database fa-5x",
+        "title": "database"
+    },{
+        "icon": "fab fa-node fa-5x",
+        "title": "node"
+    }],
     "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
-        "phone": "+1 123 456 1234",
-        "email": "info@company.com",
-        "facebook": "fb.com",
-        "twitter": "twitter.com",
-        "youtube": "youtube.com"
+        "address": "Athens St, San Francisco, CA 94112 ",
+        "phone": "+1 415 855 1555",
+        "email": "sguo1122@gmail.com",
+        "github": "https://github.com/wetech16",
+        "twitter": "https://twitter.com/Stephen37226882",
+        "linkedin": "https://www.linkedin.com/in/stephen-guo-6b0a0020a/"
     }
 
 }
